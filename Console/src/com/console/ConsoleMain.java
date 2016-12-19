@@ -8,5 +8,6 @@ public class ConsoleMain {
 		book.setId("1234567");
 		book.setName("book");
 		//紧急分支修复
+		System.err.println("人为冲突");
 	}
 }
