@@ -9,5 +9,6 @@ public class ConsoleMain {
 		book.setName("book");
 		//紧急分支修复
 		System.out.println(book.getName());
+		System.err.println("人为冲突");
 	}
 }
